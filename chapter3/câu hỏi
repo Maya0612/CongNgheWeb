@@ -1,0 +1,1 @@
+Tại sao chúng ta phải gọi session_start() ở mỗi trang muốn dùng session, thay vì chỉ gọi một lần ở file đăng nhập?

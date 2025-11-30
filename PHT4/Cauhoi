@@ -1,0 +1,1 @@
+Tại sao việc sử dụng Prepared Statements (như cách ta dùng ? và $stmt->execute()) lại là cơ chế bắt buộc để chống lại SQL Injection?
